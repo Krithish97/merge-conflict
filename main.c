@@ -2,14 +2,14 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  This is the MAIN CODE
 }
 
 Initial Security()
 {
- //Sample Code
+
 }
 
-
+tHSI IS ALSO THE MAIN CODE
 
 }
