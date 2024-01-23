@@ -2,14 +2,15 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  Security patch code F1
 }
 
 Initial Security()
 {
- //Sample Code
+ INT  a=1 , b=5
+}
+add a+b 
+result
 }
 
 
-
-}
