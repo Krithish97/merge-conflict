@@ -2,6 +2,7 @@ pseudo code
 {
 Initial Function()
 {
+<<<<<<< HEAD
   Security patch code F1
 }
 
@@ -11,6 +12,9 @@ Initial Security()
 }
 add a+b 
 result
+=======
+  Security Patch code NUMBER"HOL68093" 
+>>>>>>> Feature2
 }
 
 
